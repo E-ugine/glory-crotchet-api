@@ -1,0 +1,338 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Handmade Crochet Sweater",
+        "description": "A cozy handmade sweater with intricate crochet patterns.",
+        "price": 45.99,
+        "originalPrice": 50.0,
+        "images": [
+            "https://i.pinimg.com/736x/76/2c/05/762c05cee6895be8be70168990aa812a.jpg",
+            "https://i.pinimg.com/736x/76/2c/05/762c05cee6895be8be70168990aa812a.jpg",
+            "https://i.pinimg.com/736x/76/2c/05/762c05cee6895be8be70168990aa812a.jpg",
+            "https://i.pinimg.com/736x/76/2c/05/762c05cee6895be8be70168990aa812a.jpg"
+        ],
+        "category": "Clothing",
+        "featured": true,
+        "best_seller": false,
+        "new_arrival": false,
+        "stock": 10,
+        "rating": 4.0,
+        "reviews_count": 150,
+        "sizes": ["SM", "MD", "LG", "XL"],
+        "tax_included": true,
+        "quantity": 1
+    },
+    {
+        "id": 2,
+        "name": "Vintage Leather Backpack",
+        "description": "A stylish and durable leather backpack, perfect for daily use.",
+        "price": 79.99,
+        "originalPrice": 95.0,
+        "images": [
+            "https://i.pinimg.com/736x/34/d0/88/34d088b85d9d98d46057a0c883eba76e.jpg",
+            "https://i.pinimg.com/736x/34/d0/88/34d088b85d9d98d46057a0c883eba76e.jpg",
+            "https://i.pinimg.com/736x/34/d0/88/34d088b85d9d98d46057a0c883eba76e.jpg",
+            "https://i.pinimg.com/736x/34/d0/88/34d088b85d9d98d46057a0c883eba76e.jpg"
+        ],
+        "category": "Accessories",
+        "featured": false,
+        "best_seller": true,
+        "new_arrival": false,
+        "stock": 5,
+        "rating": 4.5,
+        "reviews_count": 85,
+        "sizes": [],
+        "tax_included": true,
+        "quantity": 1
+    },
+    {
+        "id": 3,
+        "name": "Handwoven Wool Scarf",
+        "description": "A warm and soft wool scarf, handcrafted with love.",
+        "price": 25.99,
+        "originalPrice": 40.0,
+        "images": [
+          "https://i.pinimg.com/736x/12/55/21/12552106eec4f5e112d6c65613eafb1c.jpg",
+          "https://i.pinimg.com/736x/12/55/21/12552106eec4f5e112d6c65613eafb1c.jpg",
+          "https://i.pinimg.com/736x/12/55/21/12552106eec4f5e112d6c65613eafb1c.jpg",
+          "https://i.pinimg.com/736x/12/55/21/12552106eec4f5e112d6c65613eafb1c.jpg"
+        ],
+        "category": "Accessories",
+        "featured": true,
+        "best_seller": false,
+        "new_arrival": true,
+        "stock": 15,
+        "rating": 4.8,
+        "reviews_count": 200,
+        "sizes": ["One Size"],
+        "tax_included": true,
+        "quantity": 1
+    },
+        {
+          "id": 4,
+          "name": "Leather Crossbody Bag",
+          "description": "A stylish leather crossbody bag, perfect for daily use.",
+          "price": 55.00,
+          "originalPrice": 70.0,
+          "images": [
+            "https://i.pinimg.com/736x/af/48/a6/af48a6a9f48c9f1c0512e50029ac4c31.jpg",
+            "https://i.pinimg.com/736x/af/48/a6/af48a6a9f48c9f1c0512e50029ac4c31.jpg",
+            "https://i.pinimg.com/736x/af/48/a6/af48a6a9f48c9f1c0512e50029ac4c31.jpg",
+            "https://i.pinimg.com/736x/af/48/a6/af48a6a9f48c9f1c0512e50029ac4c31.jpg"
+          ],
+          "category": "Bags",
+          "featured": true,
+          "best_seller": false,
+          "new_arrival": false,
+          "stock": 10,
+          "rating": 4.8,
+        "reviews_count": 200,
+        "sizes": ["One Size"],
+        "tax_included": true,
+        "quantity": 1
+        },
+        {
+          "id": 5,
+          "name": "Vintage Denim Jacket",
+          "description": "A classic vintage denim jacket with a relaxed fit.",
+          "price": 75.00,
+          "images": [
+            "https://i.pinimg.com/736x/70/d7/6a/70d76a83c81ea41a82a60dcdfabce16b.jpg",
+            "https://i.pinimg.com/736x/70/d7/6a/70d76a83c81ea41a82a60dcdfabce16b.jpg",
+            "https://i.pinimg.com/736x/70/d7/6a/70d76a83c81ea41a82a60dcdfabce16b.jpg",
+            "https://i.pinimg.com/736x/70/d7/6a/70d76a83c81ea41a82a60dcdfabce16b.jpg"
+          ],
+          "category": "Clothing",
+          "featured": false,
+          "best_seller": true,
+          "new_arrival": true,
+          "stock": 20,
+          "rating": 4.8,
+        "reviews_count": 200,
+        "sizes": ["One Size"],
+        "tax_included": true,
+        "quantity": 1
+        },
+        {
+          "id": 6,
+          "name": "Handmade Beaded Necklace",
+          "description": "An elegant handmade beaded necklace with vibrant colors.",
+          "price": 40.00,
+          "originalPrice": 55.0,
+          "images": [
+            "https://i.pinimg.com/736x/91/10/9e/91109ed5f7423fb907286bd146109c10.jpg",
+            "https://i.pinimg.com/736x/91/10/9e/91109ed5f7423fb907286bd146109c10.jpg",
+            "https://i.pinimg.com/736x/91/10/9e/91109ed5f7423fb907286bd146109c10.jpg",
+            "https://i.pinimg.com/736x/91/10/9e/91109ed5f7423fb907286bd146109c10.jpg"
+          ],
+          "category": "Jewelry",
+          "featured": true,
+          "best_seller": false,
+          "new_arrival": false,
+          "stock": 25,
+          "rating": 4.8,
+        "reviews_count": 200,
+        "sizes": ["One Size"],
+        "tax_included": true,
+        "quantity": 1
+        },
+        {
+          "id": 7,
+          "name": "Cozy Wool Sweater",
+          "description": "A soft and cozy wool sweater, perfect for chilly days.",
+          "price": 65.00,
+          "originalPrice": 80.0,
+          "images": [
+            "https://i.pinimg.com/736x/a1/c3/37/a1c3371d28b8aff8363642b55f3f0f4b.jpg",
+            "https://i.pinimg.com/736x/a1/c3/37/a1c3371d28b8aff8363642b55f3f0f4b.jpg",
+            "https://i.pinimg.com/736x/a1/c3/37/a1c3371d28b8aff8363642b55f3f0f4b.jpg",
+            "https://i.pinimg.com/736x/a1/c3/37/a1c3371d28b8aff8363642b55f3f0f4b.jpg"
+          ],
+          "category": "Clothing",
+          "featured": false,
+          "best_seller": true,
+          "new_arrival": true,
+          "stock": 18,
+          "rating": 4.8,
+        "reviews_count": 200,
+        "sizes": ["One Size"],
+        "tax_included": true,
+        "quantity": 1
+        },
+        {
+          "id": 8,
+          "name": "Boho Patterned Scarf",
+          "description": "A lightweight bohemian scarf with beautiful patterns.",
+          "price": 25.00,
+          "originalPrice": 40.0,
+          "images": [
+            "https://i.pinimg.com/736x/27/0a/7a/270a7acd87717ce67d26a24f2e69fa8e.jpg",
+            "https://i.pinimg.com/736x/27/0a/7a/270a7acd87717ce67d26a24f2e69fa8e.jpg",
+            "https://i.pinimg.com/736x/27/0a/7a/270a7acd87717ce67d26a24f2e69fa8e.jpg",
+            "https://i.pinimg.com/736x/27/0a/7a/270a7acd87717ce67d26a24f2e69fa8e.jpg"
+          ],
+          "category": "Accessories",
+          "featured": true,
+          "best_seller": false,
+          "new_arrival": false,
+          "stock": 30,
+          "rating": 4.8,
+        "reviews_count": 200,
+        "sizes": ["One Size"],
+        "tax_included": true,
+        "quantity": 1
+        },
+        {
+          "id": 9,
+          "name": "Minimalist Gold Bracelet",
+          "description": "A sleek and simple gold bracelet for everyday wear.",
+          "price": 35.00,
+          "originalPrice": 50.0,
+          "images": [
+            "https://i.pinimg.com/736x/61/ab/ae/61abaeb5ea28a4e311b1c08531510d41.jpg",
+            "https://i.pinimg.com/736x/61/ab/ae/61abaeb5ea28a4e311b1c08531510d41.jpg",
+            "https://i.pinimg.com/736x/61/ab/ae/61abaeb5ea28a4e311b1c08531510d41.jpg",
+            "https://i.pinimg.com/736x/61/ab/ae/61abaeb5ea28a4e311b1c08531510d41.jpg"
+          ],
+          "category": "Jewelry",
+          "featured": false,
+          "best_seller": true,
+          "new_arrival": false,
+          "stock": 22,
+          "rating": 4.8,
+        "reviews_count": 200,
+        "sizes": ["One Size"],
+        "tax_included": true,
+        "quantity": 1
+        },
+        {
+          "id": 10,
+          "name": "Handwoven Straw Hat",
+          "description": "A stylish handwoven straw hat for sunny days.",
+          "price": 28.00,
+          "originalPrice": 37.0,
+          "images": [
+            "https://i.pinimg.com/736x/f6/46/aa/f646aae024739b3538a03d50e0b95ffa.jpg",
+            "https://i.pinimg.com/736x/f6/46/aa/f646aae024739b3538a03d50e0b95ffa.jpg",
+            "https://i.pinimg.com/736x/f6/46/aa/f646aae024739b3538a03d50e0b95ffa.jpg",
+            "https://i.pinimg.com/736x/f6/46/aa/f646aae024739b3538a03d50e0b95ffa.jpg"
+          ],
+          "category": "Accessories",
+          "featured": true,
+          "best_seller": false,
+          "new_arrival": true,
+          "stock": 16,
+          "rating": 4.8,
+        "reviews_count": 200,
+        "sizes": ["One Size"],
+        "tax_included": true,
+        "quantity": 1
+        },
+        {
+          "id": 11,
+          "name": "Classic Leather Wallet",
+          "description": "A premium leather wallet with multiple compartments.",
+          "price": 50.00,
+          "originalPrice": 65.0,
+          "images": [
+            "https://i.pinimg.com/736x/b9/88/3a/b9883a5d316ab0f2703b08cb8ef7c659.jpg",
+            "https://i.pinimg.com/736x/b9/88/3a/b9883a5d316ab0f2703b08cb8ef7c659.jpg",
+            "https://i.pinimg.com/736x/b9/88/3a/b9883a5d316ab0f2703b08cb8ef7c659.jpg",
+            "https://i.pinimg.com/736x/b9/88/3a/b9883a5d316ab0f2703b08cb8ef7c659.jpg"
+          ],
+          "category": "Accessories",
+          "featured": false,
+          "best_seller": true,
+          "new_arrival": false,
+          "stock": 12,
+          "rating": 4.8,
+        "reviews_count": 200,
+        "sizes": ["One Size"],
+        "tax_included": true,
+        "quantity": 1
+        },
+        {
+          "id": 12,
+          "name": "Embroidered Maxi Dress",
+          "description": "A beautifully embroidered maxi dress with floral patterns.",
+          "price": 85.00,
+          "originalPrice": 100.0,
+          "images": [
+            "https://i.pinimg.com/736x/36/6b/7b/366b7b37a74ae311c795fbe8b4aaf66a.jpg",
+            "https://i.pinimg.com/736x/36/6b/7b/366b7b37a74ae311c795fbe8b4aaf66a.jpg",
+            "https://i.pinimg.com/736x/36/6b/7b/366b7b37a74ae311c795fbe8b4aaf66a.jpg",
+            "https://i.pinimg.com/736x/36/6b/7b/366b7b37a74ae311c795fbe8b4aaf66a.jpg"
+          ],
+          "category": "Clothing",
+          "featured": true,
+          "best_seller": false,
+          "new_arrival": true,
+          "stock": 8,
+          "rating": 4.8,
+        "reviews_count": 200,
+        "sizes": ["One Size"],
+        "tax_included": true,
+        "quantity": 1
+        }
+    ],
+    "orders": [
+        {
+            "id": 101,
+            "customer_name": "Jane Doe",
+            "email": "janedoe@example.com",
+            "phone": "123-456-7890",
+            "address": "123 Main St, Cityville",
+            "order_items": [
+                { "product_id": 1, "quantity": 1 },
+                { "product_id": 2, "quantity": 2 }
+            ],
+            "total_price": 77.97,
+            "status": "Processing",
+            "tracking_number": "TRK123456"
+        },
+        {
+            "id": 102,
+            "customer_name": "John Smith",
+            "email": "johnsmith@example.com",
+            "phone": "987-654-3210",
+            "address": "456 Elm St, Townsville",
+            "order_items": [
+                { "product_id": 3, "quantity": 1 }
+            ],
+            "total_price": 30.00,
+            "status": "Shipped",
+            "tracking_number": "TRK654321"
+        }
+    ],
+    "reviews": [
+        {
+            "id": 201,
+            "product_id": 1,
+            "customer_name": "Alice Johnson",
+            "image": "https://i.pinimg.com/736x/24/77/4a/24774aa16ced7cb60f5d8c715c7537cf.jpg",
+            "rating": 5,
+            "comment": "Absolutely love this sweater! So cozy and stylish.",
+            "date": "2024-01-01"
+        },
+        {
+            "id": 202,
+            "product_id": 2,
+            "customer_name": "Bob Williams",
+            "image": "https://i.pinimg.com/736x/bb/db/4e/bbdb4e736c89707886eb0d0b10ff1f1e.jpg",
+            "rating": 4,
+            "comment": "Great beanie, but I wish it came in more colors.",
+            "date": "2024-01-05"
+        },
+        {
+            "id": 203,
+            "product_id": 3,
+            "customer_name": "Sarah Lee",
+            "image": "https://i.pinimg.com/736x/97/69/fd/9769fd2deeca9a44266a06f8c3ec48f9.jpg",
+            "rating": 5,
+            "comment": "The tote bag is amazing! Perfect size and high quality.",
+            "date": "2024-01-10"
+        }
+    ]
+  }
+  
